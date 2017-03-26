@@ -1,3 +1,3 @@
 # BaChallenge-Fintech
 Team: Caitlyn Lubas, Gabe Peyser, Michelle Tu, Steven Wong
-Goal: To Predict the probability a loan will be granted 
+## Goal: To Predict the probability a loan will be granted 
